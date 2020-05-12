@@ -2,8 +2,6 @@
 Using Javascript linkup button and music in both mouse click and keyboard 
 
 
-# drumkit
-
 * addEventListener事件監聽
 
 Document.querySelector("button").addEventListener("click", handleClick);
