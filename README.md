@@ -1,4 +1,4 @@
-# drumkit
+# drumkit 預覽網址: https://tom-linkitup.github.io/drumkit/drumkit.html
 Using Javascript linkup button and music in both mouse click and keyboard 
 
 
