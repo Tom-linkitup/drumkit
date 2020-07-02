@@ -1,4 +1,4 @@
-drumkit 預覽網址: https://tom-linkitup.github.io/drumkit/drumkit.html
+
 
 
 
